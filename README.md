@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Bibin P Daniel</h1>
+<h1 align="center">Hi there! 👋 I'm Jobson K Mathew</h1>
 <h3 align="center">A passionate software developer with a love for crafting digital experiences. My coding journey takes me across the diverse landscapes of Laravel, Django, Flutter, and the realms of Core Java and Python.</h3>
 
 <p align="center">
@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <b>💬 Ask me about:</b> Django and Laravel
+  <b>💬 Ask me about:</b> Django and PHP
 </p>
 
 <p align="center">
-  <b>📫 How to reach me:</b> bibindaniel10@gmail.com
+  <b>📫 How to reach me:</b> jobsonkmathew@gmail.com
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/bibin-p-daniel-b6b7ba211" target="blank">
+  <a href="https://www.linkedin.com/in/jobson-k-mathew" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibin-p-daniel-b6b7ba211" height="30" width="40"/>
   </a>
 </p>
