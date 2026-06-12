@@ -1,55 +1,45 @@
 <h1 align="center">Hi there! 👋 I'm Jobson K Mathew</h1>
-<h3 align="center">A passionate software developer with a love for crafting digital experiences. My coding journey takes me across the diverse landscapes of Django, Flutter, and the realms of Core Java and Python.</h3>
-
+<h3 align="center">A passionate software developer with a love for crafting digital experiences. My coding journey takes me across the diverse landscapes of Django, Flutter, .NET, and the realms of Core Java and Python.</h3>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 </p>
-
 <p align="center">
-  <b>🌱 Currently learning:</b> Flutter
+  <b>🌱 Currently learning:</b> Flutter & .NET
 </p>
-
 <p align="center">
-  <b>💬 Ask me about:</b> Django and PHP
+  <b>💬 Ask me about:</b> Django, PHP, and .NET
 </p>
-
 <p align="center">
   <b>📫 How to reach me:</b> jobsonkmathew@gmail.com
 </p>
-
 <p align="center">
   <i>I believe that great code is a work of art, and I'm here to paint my masterpiece. When not crafting elegant solutions, you might find me exploring the latest tech trends, sipping coffee, diving into a good book, enjoying a captivating movie, or spiking it up on the volleyball court.</i>
 </p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jobson-k-mathew" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibin-p-daniel-b6b7ba211" height="30" width="40"/>
   </a>
 </p>
-
 <p align="center">
   <b>Languages and Tools:</b>
 </p>
-
 <p align="center">
   <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   <img alt="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
   <img alt="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
   <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <!-- Add other icons here -->
+  <img alt="dotnet" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
+  <img alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
 </p>
-
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobson6544&show_icons=true&locale=en&layout=compact" alt="jobson6544"/>
 </p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jobson6544&show_icons=true&locale=en" alt="jobson6544"/>
 </p>
-
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jobson6544&theme=holi-theme" alt="GitHub Streak" /></a>
 </p>
